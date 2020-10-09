@@ -9,7 +9,7 @@ https://www.w3schools.com/html/html_form_input_types.asp</a></p>
 
   Select your favorite color: <input type="color" name="favcolor" value="#0000ff"><br/>
 
-  Birthday: <input type="date" name="bday" value="2013-09-02"><br/>
+  Birthday: <input type="date" name="bday" value="2020-10-09"><br/>
 
   E-mail: <input type="email" name="email"><br/>
 
