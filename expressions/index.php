@@ -47,7 +47,7 @@
   $e=(int)9.9-1;
   echo "E: $e\n";
 
-  $f="sam" + 25;
+  //$f="sam" + 25;
   echo "F: $f\n";
 
   $g="sam". 25;
