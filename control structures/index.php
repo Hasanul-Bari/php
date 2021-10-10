@@ -1,7 +1,7 @@
 <h1>Control Structure</h1>
 
 <?php
-    $ans=42;
+    $ans=true;
 
     if($ans==42)
       print "Hello World\n";
